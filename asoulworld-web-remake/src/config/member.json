@@ -1,0 +1,67 @@
+[
+  {
+    "member": 1,
+    "name": "向晚大魔王",
+    "avatar": "avatar-1.webp",
+    "background": "banner-a.webp",
+    "intro": "关注...也不是不可以啦！",
+    "bili_uid": 672346917,
+    "live_uid": 22625025,
+    "birthday": "06-12"
+  },
+  {
+    "member": 2,
+    "name": "贝拉kira",
+    "avatar": "avatar-2.webp",
+    "background": "banner-b.webp",
+    "intro": "元气满满的A-SOUL舞担参上~目标TOP IDOL，一起加油！",
+    "bili_uid": 672353429,
+    "live_uid": 22632424,
+    "birthday": "07-17"
+  },
+  {
+    "member": 3,
+    "name": "珈乐Carol",
+    "avatar": "avatar-3.webp",
+    "background": "banner-c.webp",
+    "intro": "嘘，请听我为你歌唱……",
+    "bili_uid": 351609538,
+    "live_uid": 22634198,
+    "birthday": "11-02",
+    "alert": {
+      "level": 0,
+      "title": "注意",
+      "content": "“珈乐”中之人于2022年5月14日与A-SOUL解除签约，“珈乐”这一角色已停止活动，详细情况过于复杂，请自行通过互联网了解判断。"
+    }
+  },
+  {
+    "member": 4,
+    "name": "嘉然今天吃什么",
+    "avatar": "avatar-4.webp",
+    "background": "banner-d.webp",
+    "intro": "这里是嘉然！别看我小小的，我超能吃还超可爱的哦~",
+    "bili_uid": 672328094,
+    "live_uid": 22637261,
+    "birthday": "03-07"
+  },
+  {
+    "member": 5,
+    "name": "乃琳Queen",
+    "avatar": "avatar-5.webp",
+    "background": "banner-e.webp",
+    "intro": "喜欢听你说，开心和不开心的，都告诉我吧~",
+    "bili_uid": 672342685,
+    "live_uid": 22625027,
+    "birthday": "08-08"
+  },
+  {
+    "member": 6,
+    "name": "A-SOUL_Official",
+    "avatar": "avatar-6.webp",
+    "background": "banner-y.webp",
+    "intro": "虚拟偶像企划，我们是A-SOUL！合作洽谈请联系julong@asoul.cn",
+    "bili_uid": 703007996,
+    "live_uid": 22632157,
+    "birthday": "12-11"
+  }
+]

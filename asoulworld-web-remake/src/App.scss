@@ -1,0 +1,187 @@
+.App {
+  width: 100%;
+  height: 100%;
+}
+
+.main-warp {
+  position: relative;
+  z-index: 5;
+  background: #ddd;
+}
+
+a, a:hover, a:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+//contact-dialog文字块
+
+.text-block {
+  font-family: "Microsoft YaHei UI", serif;
+  p {
+    b{
+      margin-right: 3px;
+      margin-left: 3px;
+    }
+    img{
+      width: 15px;
+      height: 15px;
+    }
+  }
+  .text-normal{
+    color: #555555;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .text-small{
+    color: #777777;
+    font-size: 11px;
+    line-height: 20px;
+  }
+  .tag-title
+  {
+    text-align: center;
+    font-family: "Microsoft YaHei UI", serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #333333;
+  }
+}
+
+//尾部
+
+.footer-section {
+  width: 100%;
+  bottom: 0;
+  background: #333333;
+  text-align: center;
+  padding: 40px 0;
+  z-index: 2;
+  p{
+    display:inline-block;
+    font-size: 12px;
+    &.foot-slogan{
+      font-family: MontserratAlternates, serif;
+    }
+  }
+  .contact-bt{
+    color: #2e6da4;
+    &:hover{
+      color: #1b6d85;
+    }
+  }
+
+}
+
+.thank-block{
+  .thank-intro{
+    margin-top: 20px;
+    font-size: 13px;
+    font-style: italic;
+    font-family: "Microsoft YaHei UI", serif;
+    color: #aaaaaa;
+    line-height: 19px;
+  }
+  .thank-row-fix{
+    padding-top: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+}
+//contact-dialog特别感谢中的迷你卡片
+
+.mini-card{
+  display: block;
+  text-align: left;
+  width: 100%;
+  height: 40px;
+  line-height: 38px;
+  vertical-align: middle;
+  .mini-avatar{
+    width:30px;
+    height:30px;
+    display: inline-block;
+    margin-left: 5px;
+    border-radius: 50%;
+  }
+  p{
+    display: inline-block;
+    margin-left: 10px;
+  }
+}
+
+
+//contact-dialog
+
+.contact-dialog{
+  .dialog-header{
+    border-bottom: 0;
+  }
+  h4{
+    font-size: 20px;
+  }
+  .version-tag{
+    position: absolute;
+    left: 10px;
+    font-family: "Microsoft YaHei UI", serif;
+    font-size: 12px;
+  }
+  .tab{
+    font-size: calc(10px + .2vw);
+    padding: .3rem .6rem;
+  }
+}
+
+//404页面
+.page-404{
+  text-align: center;
+  height: 100%;
+  overflow: hidden;
+  .block{
+    margin-top: 40vh;
+    font-size: calc(10px + 2vmin);
+  }
+  img{
+    height: calc(50px + 10vh);
+    vertical-align: middle;
+    display: inline-block;
+  }
+  p{
+    vertical-align: middle;
+    display: inline-block;
+    font-size: calc(50px + 10vh);
+    margin:0 20px;
+    color: #db7d74;
+    font-family: "HanYiWenHei", sans-serif;
+  }
+  .return-button{
+    margin-top: 30px;
+  }
+}
+
+//QRCODE
+
+.qrcode-area{
+  margin-top: 20px;
+  text-align: center;
+  padding: 5px;
+  .qrcode-card{
+    padding: 5px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 5px rgba(64, 64, 64, 0.2);
+    box-shadow: 0 0 5px rgba(64, 64, 64, 0.2);
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    display: inline-block;
+    &:hover{
+      -webkit-box-shadow: 0 0 10px rgba(64, 64, 64, 0.3);
+      box-shadow: 0 0 10px rgba(64, 64, 64, 0.3);
+    }
+  }
+  p{
+    color: #cccccc;
+    line-height: 14px;
+  }
+}

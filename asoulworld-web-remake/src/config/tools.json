@@ -1,0 +1,37 @@
+[
+  {
+    "name": "A-SOUL鼓励师",
+    "icon": "1.jpg",
+    "type": 5,
+    "desc": "vscode鼓励师插件，写代码不再孤单，有A-SOUL与你同在",
+    "link": "https://marketplace.visualstudio.com/items?itemName=AS042971.asoul"
+  },
+  {
+    "name": "A-SOUL-background",
+    "icon": "3.jpg",
+    "type": 5,
+    "desc": "Asoul默认vscode主题背景，可自定义图片。",
+    "link": "https://marketplace.visualstudio.com/items?itemName=TheSecondAkari.background-withsidebar"
+  },
+  {
+    "name": "ASoul UI",
+    "icon": "4.ico",
+    "type": 6,
+    "desc": "一个魂的 Vue 3 组件库",
+    "link": "https://asoul.plus/"
+  },
+  {
+    "name": "A-SOUL-live2d",
+    "icon": "5.png",
+    "type": 5,
+    "desc": "vscode插件-live2d看板娘",
+    "link": "https://marketplace.visualstudio.com/items?itemName=TheSecondAkari.vscode-live2d"
+  },
+  {
+    "name": "新B站粉丝牌助手",
+    "icon": "7.png",
+    "type": 0,
+    "desc": "新版B站粉丝牌助手 全自动升级粉丝牌。作者：晓小轩iAVA",
+    "link": "https://github.com/XiaoMiku01/fansMedalHelper"
+  }
+]
